@@ -1,6 +1,6 @@
-# NS3 2022
+# NS3 2023
 
-Git repository containing Wednesday's activity for NS3 School 2023
+Git repository containing Thursday's activity for NS3 School 2023
 
 (Original version Samuel Giuliani https://github.com/sagiuliani/NS3_2020)
 
@@ -22,4 +22,4 @@ physics properties in the creation of elements.
 
 The Jupyter Notebook can be run from Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ruchigargphys/NS3_2022_Nucleosynthesis2/master?labpath=notebook%2Fmasses.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/garg-ruchi/NS3_2023_Nucleosynthesis/master?labpath=notebook%2Fmasses.ipynb)
